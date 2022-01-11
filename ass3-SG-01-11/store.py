@@ -5,6 +5,7 @@
 # Author: SG-G01-11 (s3878340, s3819342, s3715305, s3872104)
 # Created date: 10/12/2021
 # Last modified date: 11/01/2022
+# Python version: 3.8.8
 # This is our main file
 
 from utils import clear
