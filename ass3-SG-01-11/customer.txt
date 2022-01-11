@@ -1,0 +1,21 @@
+330,Nguyen Minh Duy Uyen,24200000,Gold,121,1
+594,Nguyen Dan Khanh,1500000,Bronze,20,2
+758,Le Nguyen Dan Chau,5000000,Silver,50,1
+397,Nguyen Thuy Trang,6000000,Silver,69,2
+580,Tran Bao Ngoc,10000000,Gold,100,1
+931,Nguyen Thanh Tam,5000000,Silver,50,2
+727,Tran Nguyen Tra Ly,6000000,Silver,57,1
+394,Duong Tuong Huy,4500000,Bronze,49,1
+863,Nguyen Phuong Tien,10000000,Gold,100,1
+902,Vi Uyen An,18000000,Gold,108,2
+385,Nguyen Hong Thuan,7000000,Silver,60,1
+122,May Tran,12000000,Gold,50,1
+109,Renee Xiong,7000000,Silver,62,2
+936,Stacy Kim,2000500,Bronze,18,2
+532,Bun Huynh,15000000,Gold,105,1
+458,Tran Quoc Bao,12000000,Gold,103,1
+219,Wan Chi Hong,5000000,Silver,51,2
+910,Nguyen Le Chi,1000000,Bronze,15,2
+271,Le Chi Vien,600000,Bronze,3,1
+800,Nguyen Thanh Thao,11360000,Bronze,3,1
+345,Nguyen Thanh Sang,0,Bronze,0,1
